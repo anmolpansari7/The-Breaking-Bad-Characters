@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(247, 247, 247);
+}
+
+.character__card {
+  display: flex;
+  height: 80vh;
+  background-color: #fff;
+  width: 80vw;
+  margin: auto;
+  margin-top: 50px;
+  box-shadow: 5px 5px 5px 5px rgb(251, 253, 255);
+  border: 5px solid rgb(241, 241, 241);
+}
+
+.character__image {
+  height: 80vh;
+}
+
+.character__cardRight {
+  margin: 20px 10px 20px 50px;
+}
